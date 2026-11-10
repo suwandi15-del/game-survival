@@ -1,0 +1,6 @@
+{
+  "name": "Power Survival – Petualangan 6 Pos Eksponen",
+  "description": "Game Edukasi Matematika Interaktif Bilangan Berpangkat Kelas X SMK Fase E oleh Suwandi, S.Pd. – SMKN 4 Soppeng",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
